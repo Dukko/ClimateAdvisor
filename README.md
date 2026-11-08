@@ -1,3 +1,5 @@
+> **No longer maintained** — This project is no longer maintained as of November 2026. It works as-is, but there will be no further updates or bug fixes. Feel free to fork it.
+
 # Climate Advisor for Home Assistant
 
 A Home Assistant integration that runs your thermostat from the weather forecast, your schedule, occupancy and your door/window sensors, so the house stays comfortable without wasted heating or cooling. It learns how your home and thermostat behave over time.
